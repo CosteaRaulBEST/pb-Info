@@ -1,0 +1,7 @@
+C:\Users\paulc\source\repos\pbinfo-813\pbinfo-813\obj\Debug\pbinfo-813.csproj.AssemblyReference.cache
+C:\Users\paulc\source\repos\pbinfo-813\pbinfo-813\obj\Debug\pbinfo-813.csproj.CoreCompileInputs.cache
+C:\Users\paulc\source\repos\pbinfo-813\pbinfo-813\bin\Debug\pbinfo-813.exe.config
+C:\Users\paulc\source\repos\pbinfo-813\pbinfo-813\bin\Debug\pbinfo-813.exe
+C:\Users\paulc\source\repos\pbinfo-813\pbinfo-813\bin\Debug\pbinfo-813.pdb
+C:\Users\paulc\source\repos\pbinfo-813\pbinfo-813\obj\Debug\pbinfo-813.exe
+C:\Users\paulc\source\repos\pbinfo-813\pbinfo-813\obj\Debug\pbinfo-813.pdb
