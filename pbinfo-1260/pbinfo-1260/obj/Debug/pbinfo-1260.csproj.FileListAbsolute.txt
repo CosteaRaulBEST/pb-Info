@@ -1,0 +1,7 @@
+C:\Users\paulc\source\repos\pbinfo-1260\pbinfo-1260\obj\Debug\pbinfo-1260.csproj.AssemblyReference.cache
+C:\Users\paulc\source\repos\pbinfo-1260\pbinfo-1260\obj\Debug\pbinfo-1260.csproj.CoreCompileInputs.cache
+C:\Users\paulc\source\repos\pbinfo-1260\pbinfo-1260\bin\Debug\pbinfo-1260.exe.config
+C:\Users\paulc\source\repos\pbinfo-1260\pbinfo-1260\bin\Debug\pbinfo-1260.exe
+C:\Users\paulc\source\repos\pbinfo-1260\pbinfo-1260\bin\Debug\pbinfo-1260.pdb
+C:\Users\paulc\source\repos\pbinfo-1260\pbinfo-1260\obj\Debug\pbinfo-1260.exe
+C:\Users\paulc\source\repos\pbinfo-1260\pbinfo-1260\obj\Debug\pbinfo-1260.pdb
