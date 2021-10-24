@@ -1,0 +1,14 @@
+C:\Users\paulc\source\repos\pbinfo-832\pbinfo-832\bin\Debug\netcoreapp3.1\pbinfo-832.exe
+C:\Users\paulc\source\repos\pbinfo-832\pbinfo-832\bin\Debug\netcoreapp3.1\pbinfo-832.deps.json
+C:\Users\paulc\source\repos\pbinfo-832\pbinfo-832\bin\Debug\netcoreapp3.1\pbinfo-832.runtimeconfig.json
+C:\Users\paulc\source\repos\pbinfo-832\pbinfo-832\bin\Debug\netcoreapp3.1\pbinfo-832.runtimeconfig.dev.json
+C:\Users\paulc\source\repos\pbinfo-832\pbinfo-832\bin\Debug\netcoreapp3.1\pbinfo-832.dll
+C:\Users\paulc\source\repos\pbinfo-832\pbinfo-832\bin\Debug\netcoreapp3.1\pbinfo-832.pdb
+C:\Users\paulc\source\repos\pbinfo-832\pbinfo-832\obj\Debug\netcoreapp3.1\pbinfo-832.csproj.AssemblyReference.cache
+C:\Users\paulc\source\repos\pbinfo-832\pbinfo-832\obj\Debug\netcoreapp3.1\pbinfo-832.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paulc\source\repos\pbinfo-832\pbinfo-832\obj\Debug\netcoreapp3.1\pbinfo-832.AssemblyInfoInputs.cache
+C:\Users\paulc\source\repos\pbinfo-832\pbinfo-832\obj\Debug\netcoreapp3.1\pbinfo-832.AssemblyInfo.cs
+C:\Users\paulc\source\repos\pbinfo-832\pbinfo-832\obj\Debug\netcoreapp3.1\pbinfo-832.csproj.CoreCompileInputs.cache
+C:\Users\paulc\source\repos\pbinfo-832\pbinfo-832\obj\Debug\netcoreapp3.1\pbinfo-832.dll
+C:\Users\paulc\source\repos\pbinfo-832\pbinfo-832\obj\Debug\netcoreapp3.1\pbinfo-832.pdb
+C:\Users\paulc\source\repos\pbinfo-832\pbinfo-832\obj\Debug\netcoreapp3.1\pbinfo-832.genruntimeconfig.cache
