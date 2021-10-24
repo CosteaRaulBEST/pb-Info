@@ -1,0 +1,7 @@
+C:\Users\paulc\source\repos\pbinfo-105\pbinfo-105\bin\Debug\pbinfo-105.exe.config
+C:\Users\paulc\source\repos\pbinfo-105\pbinfo-105\bin\Debug\pbinfo-105.exe
+C:\Users\paulc\source\repos\pbinfo-105\pbinfo-105\bin\Debug\pbinfo-105.pdb
+C:\Users\paulc\source\repos\pbinfo-105\pbinfo-105\obj\Debug\pbinfo-105.csproj.AssemblyReference.cache
+C:\Users\paulc\source\repos\pbinfo-105\pbinfo-105\obj\Debug\pbinfo-105.csproj.CoreCompileInputs.cache
+C:\Users\paulc\source\repos\pbinfo-105\pbinfo-105\obj\Debug\pbinfo-105.exe
+C:\Users\paulc\source\repos\pbinfo-105\pbinfo-105\obj\Debug\pbinfo-105.pdb
