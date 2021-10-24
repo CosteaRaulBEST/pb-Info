@@ -1,0 +1,7 @@
+C:\Users\paulc\source\repos\pbinfo-2240\pbinfo-2240\bin\Debug\pbinfo-2240.exe.config
+C:\Users\paulc\source\repos\pbinfo-2240\pbinfo-2240\bin\Debug\pbinfo-2240.exe
+C:\Users\paulc\source\repos\pbinfo-2240\pbinfo-2240\bin\Debug\pbinfo-2240.pdb
+C:\Users\paulc\source\repos\pbinfo-2240\pbinfo-2240\obj\Debug\pbinfo-2240.csproj.AssemblyReference.cache
+C:\Users\paulc\source\repos\pbinfo-2240\pbinfo-2240\obj\Debug\pbinfo-2240.csproj.CoreCompileInputs.cache
+C:\Users\paulc\source\repos\pbinfo-2240\pbinfo-2240\obj\Debug\pbinfo-2240.exe
+C:\Users\paulc\source\repos\pbinfo-2240\pbinfo-2240\obj\Debug\pbinfo-2240.pdb
