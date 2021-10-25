@@ -1,0 +1,7 @@
+C:\Users\paulc\source\repos\pbinfo-3210\pbinfo-3210\bin\Debug\pbinfo-3210.exe.config
+C:\Users\paulc\source\repos\pbinfo-3210\pbinfo-3210\bin\Debug\pbinfo-3210.exe
+C:\Users\paulc\source\repos\pbinfo-3210\pbinfo-3210\bin\Debug\pbinfo-3210.pdb
+C:\Users\paulc\source\repos\pbinfo-3210\pbinfo-3210\obj\Debug\pbinfo-3210.csproj.AssemblyReference.cache
+C:\Users\paulc\source\repos\pbinfo-3210\pbinfo-3210\obj\Debug\pbinfo-3210.csproj.CoreCompileInputs.cache
+C:\Users\paulc\source\repos\pbinfo-3210\pbinfo-3210\obj\Debug\pbinfo-3210.exe
+C:\Users\paulc\source\repos\pbinfo-3210\pbinfo-3210\obj\Debug\pbinfo-3210.pdb
