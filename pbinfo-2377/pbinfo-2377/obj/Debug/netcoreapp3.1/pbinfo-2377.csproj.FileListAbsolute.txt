@@ -1,0 +1,14 @@
+C:\Users\paulc\source\repos\pbinfo-2377\pbinfo-2377\bin\Debug\netcoreapp3.1\pbinfo-2377.exe
+C:\Users\paulc\source\repos\pbinfo-2377\pbinfo-2377\bin\Debug\netcoreapp3.1\pbinfo-2377.deps.json
+C:\Users\paulc\source\repos\pbinfo-2377\pbinfo-2377\bin\Debug\netcoreapp3.1\pbinfo-2377.runtimeconfig.json
+C:\Users\paulc\source\repos\pbinfo-2377\pbinfo-2377\bin\Debug\netcoreapp3.1\pbinfo-2377.runtimeconfig.dev.json
+C:\Users\paulc\source\repos\pbinfo-2377\pbinfo-2377\bin\Debug\netcoreapp3.1\pbinfo-2377.dll
+C:\Users\paulc\source\repos\pbinfo-2377\pbinfo-2377\bin\Debug\netcoreapp3.1\pbinfo-2377.pdb
+C:\Users\paulc\source\repos\pbinfo-2377\pbinfo-2377\obj\Debug\netcoreapp3.1\pbinfo-2377.csproj.AssemblyReference.cache
+C:\Users\paulc\source\repos\pbinfo-2377\pbinfo-2377\obj\Debug\netcoreapp3.1\pbinfo-2377.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paulc\source\repos\pbinfo-2377\pbinfo-2377\obj\Debug\netcoreapp3.1\pbinfo-2377.AssemblyInfoInputs.cache
+C:\Users\paulc\source\repos\pbinfo-2377\pbinfo-2377\obj\Debug\netcoreapp3.1\pbinfo-2377.AssemblyInfo.cs
+C:\Users\paulc\source\repos\pbinfo-2377\pbinfo-2377\obj\Debug\netcoreapp3.1\pbinfo-2377.csproj.CoreCompileInputs.cache
+C:\Users\paulc\source\repos\pbinfo-2377\pbinfo-2377\obj\Debug\netcoreapp3.1\pbinfo-2377.dll
+C:\Users\paulc\source\repos\pbinfo-2377\pbinfo-2377\obj\Debug\netcoreapp3.1\pbinfo-2377.pdb
+C:\Users\paulc\source\repos\pbinfo-2377\pbinfo-2377\obj\Debug\netcoreapp3.1\pbinfo-2377.genruntimeconfig.cache
