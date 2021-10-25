@@ -1,0 +1,7 @@
+C:\Users\paulc\source\repos\pbinfo-452\pbinfo-452\bin\Debug\pbinfo-452.exe.config
+C:\Users\paulc\source\repos\pbinfo-452\pbinfo-452\bin\Debug\pbinfo-452.exe
+C:\Users\paulc\source\repos\pbinfo-452\pbinfo-452\bin\Debug\pbinfo-452.pdb
+C:\Users\paulc\source\repos\pbinfo-452\pbinfo-452\obj\Debug\pbinfo-452.csproj.AssemblyReference.cache
+C:\Users\paulc\source\repos\pbinfo-452\pbinfo-452\obj\Debug\pbinfo-452.csproj.CoreCompileInputs.cache
+C:\Users\paulc\source\repos\pbinfo-452\pbinfo-452\obj\Debug\pbinfo-452.exe
+C:\Users\paulc\source\repos\pbinfo-452\pbinfo-452\obj\Debug\pbinfo-452.pdb
