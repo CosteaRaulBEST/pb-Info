@@ -1,0 +1,7 @@
+C:\Users\paulc\source\repos\pbinfo-1282\pbinfo-1282\obj\Debug\pbinfo-1282.csproj.AssemblyReference.cache
+C:\Users\paulc\source\repos\pbinfo-1282\pbinfo-1282\obj\Debug\pbinfo-1282.csproj.CoreCompileInputs.cache
+C:\Users\paulc\source\repos\pbinfo-1282\pbinfo-1282\bin\Debug\pbinfo-1282.exe.config
+C:\Users\paulc\source\repos\pbinfo-1282\pbinfo-1282\bin\Debug\pbinfo-1282.exe
+C:\Users\paulc\source\repos\pbinfo-1282\pbinfo-1282\bin\Debug\pbinfo-1282.pdb
+C:\Users\paulc\source\repos\pbinfo-1282\pbinfo-1282\obj\Debug\pbinfo-1282.exe
+C:\Users\paulc\source\repos\pbinfo-1282\pbinfo-1282\obj\Debug\pbinfo-1282.pdb
