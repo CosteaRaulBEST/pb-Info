@@ -1,0 +1,7 @@
+C:\Users\paulc\source\repos\pbinfo-468\pbinfo-468\bin\Debug\pbinfo-468.exe.config
+C:\Users\paulc\source\repos\pbinfo-468\pbinfo-468\bin\Debug\pbinfo-468.exe
+C:\Users\paulc\source\repos\pbinfo-468\pbinfo-468\bin\Debug\pbinfo-468.pdb
+C:\Users\paulc\source\repos\pbinfo-468\pbinfo-468\obj\Debug\pbinfo-468.csproj.AssemblyReference.cache
+C:\Users\paulc\source\repos\pbinfo-468\pbinfo-468\obj\Debug\pbinfo-468.csproj.CoreCompileInputs.cache
+C:\Users\paulc\source\repos\pbinfo-468\pbinfo-468\obj\Debug\pbinfo-468.exe
+C:\Users\paulc\source\repos\pbinfo-468\pbinfo-468\obj\Debug\pbinfo-468.pdb
