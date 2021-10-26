@@ -1,0 +1,7 @@
+C:\Users\paulc\source\repos\pbinfo-2264\pbinfo-2264\bin\Debug\pbinfo-2264.exe.config
+C:\Users\paulc\source\repos\pbinfo-2264\pbinfo-2264\bin\Debug\pbinfo-2264.exe
+C:\Users\paulc\source\repos\pbinfo-2264\pbinfo-2264\bin\Debug\pbinfo-2264.pdb
+C:\Users\paulc\source\repos\pbinfo-2264\pbinfo-2264\obj\Debug\pbinfo-2264.csproj.AssemblyReference.cache
+C:\Users\paulc\source\repos\pbinfo-2264\pbinfo-2264\obj\Debug\pbinfo-2264.csproj.CoreCompileInputs.cache
+C:\Users\paulc\source\repos\pbinfo-2264\pbinfo-2264\obj\Debug\pbinfo-2264.exe
+C:\Users\paulc\source\repos\pbinfo-2264\pbinfo-2264\obj\Debug\pbinfo-2264.pdb
