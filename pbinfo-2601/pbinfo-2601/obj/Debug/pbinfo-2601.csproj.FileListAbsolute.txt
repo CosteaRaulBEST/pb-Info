@@ -1,0 +1,7 @@
+C:\Users\paulc\source\repos\pbinfo-2601\pbinfo-2601\bin\Debug\pbinfo-2601.exe.config
+C:\Users\paulc\source\repos\pbinfo-2601\pbinfo-2601\bin\Debug\pbinfo-2601.exe
+C:\Users\paulc\source\repos\pbinfo-2601\pbinfo-2601\bin\Debug\pbinfo-2601.pdb
+C:\Users\paulc\source\repos\pbinfo-2601\pbinfo-2601\obj\Debug\pbinfo-2601.csproj.AssemblyReference.cache
+C:\Users\paulc\source\repos\pbinfo-2601\pbinfo-2601\obj\Debug\pbinfo-2601.csproj.CoreCompileInputs.cache
+C:\Users\paulc\source\repos\pbinfo-2601\pbinfo-2601\obj\Debug\pbinfo-2601.exe
+C:\Users\paulc\source\repos\pbinfo-2601\pbinfo-2601\obj\Debug\pbinfo-2601.pdb
