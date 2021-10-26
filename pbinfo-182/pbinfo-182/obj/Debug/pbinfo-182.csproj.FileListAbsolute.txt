@@ -1,0 +1,7 @@
+C:\Users\paulc\source\repos\pbinfo-182\pbinfo-182\bin\Debug\pbinfo-182.exe.config
+C:\Users\paulc\source\repos\pbinfo-182\pbinfo-182\bin\Debug\pbinfo-182.exe
+C:\Users\paulc\source\repos\pbinfo-182\pbinfo-182\bin\Debug\pbinfo-182.pdb
+C:\Users\paulc\source\repos\pbinfo-182\pbinfo-182\obj\Debug\pbinfo-182.csproj.AssemblyReference.cache
+C:\Users\paulc\source\repos\pbinfo-182\pbinfo-182\obj\Debug\pbinfo-182.csproj.CoreCompileInputs.cache
+C:\Users\paulc\source\repos\pbinfo-182\pbinfo-182\obj\Debug\pbinfo-182.exe
+C:\Users\paulc\source\repos\pbinfo-182\pbinfo-182\obj\Debug\pbinfo-182.pdb
